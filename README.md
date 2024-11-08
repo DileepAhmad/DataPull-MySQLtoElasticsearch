@@ -6,7 +6,7 @@ This project demonstrates how to perform data migration from MySQL to Elasticsea
 ## Features
 
 - **Data Migration**: Automatically migrates data from MySQL to Elasticsearch.
-- **Scheduled Migration**: Runs the migration task every 30 seconds using cron jobs.
+- **Scheduled Migration**: Runs the migration task every minute using cron jobs.
 - **Elasticsearch Integration**: Performs CRUD operations with Elasticsearch for storing and retrieving data.
 - **MySQL Integration**: Reads and writes product data to a MySQL database.
 - **RESTful APIs**: Provides endpoints to add and retrieve product data.
